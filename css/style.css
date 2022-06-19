@@ -479,9 +479,9 @@ img:hover{
   }
   
   .image-gallery .image-box {
-    position: relative;
+    
     background-color: #d7d7d8;
-    overflow: hidden;
+    
   }
   
   .image-gallery .image-box:nth-child(7n + 1) {
